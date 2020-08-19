@@ -1,0 +1,15 @@
+.player__div {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.card__div {
+  text-align: center;
+  justify-content: center;
+  padding-left: 250px;
+}
+
+.card__design:hover {
+  color: #f16051;
+  cursor: pointer;
+}

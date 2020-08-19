@@ -1,0 +1,9 @@
+.img__design {
+  top: -20px;
+  left: 260px;
+  position: absolute;
+  background-image: url('../../image/2.png');
+  background-repeat: no-repeat;
+  width: 357px;
+  height: 630px;
+}

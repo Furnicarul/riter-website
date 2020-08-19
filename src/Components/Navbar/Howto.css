@@ -1,0 +1,19 @@
+.h1__design {
+  text-align: center;
+  display: grid;
+}
+
+.wrap {
+  height: 100vh;
+  background: url("../../image/about.jpg") center center no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.wrap > .container__design .row__design {
+  padding-bottom: 400px;
+}
+
+.side-margin {
+  margin-left: 250px !important;
+}

@@ -1,0 +1,38 @@
+/* .logo {
+  display: block;
+  width: 120px;
+  height: 58px;
+  position: absolute;
+} */
+
+.main {
+  background-color: red;
+}
+
+.main_div .nav .tags .links{
+  color: white;
+  font-family: 'Baloo Tamma 2', cursive;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 1px;
+  padding-left: 200px;
+}
+
+.main_div .nav .tags .links:hover {
+  color: #716D6D;
+}
+
+.main_div .navbarText {
+  color: white;
+  font-family: 'Baloo Tamma 2', cursive;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 1px;
+  padding-right: 30px;
+}
+
+.a__link:hover {
+  background-color: red;
+}

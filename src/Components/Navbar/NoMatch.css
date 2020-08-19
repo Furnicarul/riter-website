@@ -1,0 +1,10 @@
+.nomatch__design {
+  text-align: center;
+  padding-top: 200px;
+  background-color: #fff;
+}
+
+.paragraph__design p{
+  padding-left: 625px;
+  display: flex;
+}
